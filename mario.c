@@ -9,7 +9,7 @@ int main(void)
   {
     // Prompt the user to enter a number
     printf("Height: ");
-    scanf("%d, %c, %s", &n);
+    scanf("%i", &n);
 
     // If the number is more than 8 or less than 1, print an error message and re-prompt the user to input a new value
     if(n > 8 || n < 1) {
