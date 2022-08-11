@@ -1,4 +1,4 @@
-# Mario - single
+# **Mario - single**
 
 ## **Introduction**
 
